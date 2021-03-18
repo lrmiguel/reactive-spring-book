@@ -1,4 +1,4 @@
-package com.github.lrmiguel.reactivespringbook;
+package com.github.lrmiguel.reactivespringbook.project_reactor;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;

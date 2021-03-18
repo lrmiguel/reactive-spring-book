@@ -1,4 +1,4 @@
-package com.github.lrmiguel.reactivespringbook;
+package com.github.lrmiguel.reactivespringbook.project_reactor;
 
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.Test;
